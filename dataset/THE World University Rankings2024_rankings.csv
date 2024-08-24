@@ -1,0 +1,202 @@
+rank_order,rank,name,scores_overall,scores_overall_rank,scores_teaching,scores_teaching_rank,scores_research,scores_research_rank,scores_citations,scores_citations_rank,scores_industry_income,scores_industry_income_rank,scores_international_outlook,scores_international_outlook_rank,location,stats_number_students,stats_student_staff_ratio,stats_pc_intl_students,stats_female_male_ratio,stats_proportion_of_isr,aliases,Website
+10,1,University of Oxford,98.5,10,96.6,5,100,2,99,5,98.7,77,97.5,14,United Kingdom,"21,750",10.9,42%,49:51:00,23%,University of Oxford,https://www.ox.ac.uk
+20,2,Stanford University,98,20,99,1,97.8,8,99.6,2,100,25,87,168,United States,"14,517",6.4,23%,47:53:00,22%,Stanford University,https://www.stanford.edu
+30,3,Massachusetts Institute of Technology,97.9,30,98.6,2,96.2,11,99.7,1,100,16,93.8,66,United States,"11,085",8,33%,41:59:00,40%,Massachusetts Institute of Technology,https://www.mit.edu
+40,4,Harvard University,97.8,40,97.7,3,99.9,3,99.4,3,84.2,216,90.8,120,United States,"20,050",9,25%,51:49:00,12%,Harvard University,https://www.harvard.edu
+50,5,University of Cambridge,97.5,50,95.8,7,100,1,98,12,87.9,180,97.4,15,United Kingdom,"20,565",11.5,38%,48:52:00,27%,University of Cambridge,https://www.cam.ac.uk
+60,6,Princeton University,96.9,60,96.3,6,97.9,7,98.8,7,95.1,118,89.1,136,United States,"7,753",7.3,23%,47:53:00,43%,Princeton University,https://www.princeton.edu
+70,7,California Institute of Technology,96.5,70,96.6,4,98,6,95.9,38,100,2,90.6,124,United States,"2,240",6.1,33%,37 : 63,49%,California Institute of Technology caltech,https://www.caltech.edu
+80,8,Imperial College London,95.1,80,90.9,12,95.5,12,98.6,8,90.9,157,98.3,6,United Kingdom,"20,275",11.8,61%,42:58:00,28%,Imperial College London,https://www.imperial.ac.uk
+90,9,"University of California, Berkeley",94.6,90,87.2,18,98.8,4,99,4,99.4,63,86.8,172,United States,"39,991",17.9,22%,52:48:00,36%,"University of California, Berkeley",https://www.berkeley.edu
+100,10,Yale University,94.2,100,94,10,94.9,13,97.7,18,86.5,192,82.4,217,United States,"11,924",5.2,21%,51:49:00,13%,Yale University,https://www.yale.edu
+110,11,ETH Zurich,93.1,110,87.6,16,96.8,10,95.6,41,82.9,229,95.6,36,Switzerland,"22,619",15.4,43%,33 : 67,43%,ETH Zurich,https://www.ethz.ch
+120,12,Tsinghua University,92.4,120,95.3,9,98.1,5,93.2,73,99.9,38,51.7,752,China,"38,518",11.2,10%,,42%,Tsinghua University Qinghua University Tsing hua University Qing hua University,https://www.tsinghua.edu.cn
+130,13,The University of Chicago,92.1,130,89.6,13,91.2,19,97.6,20,93.8,129,82.3,220,United States,"15,792",6.2,36%,47:53:00,29%,The University of Chicago,https://www.uchicago.edu
+140,14,Peking University,91.8,140,95.6,8,97.3,9,87.2,172,98.8,72,70.2,405,China,"33,064",10.9,14%,,33%,Peking University,https://www.pku.edu.cn
+150,15,Johns Hopkins University,91.1,150,84.4,23,92.3,17,97.2,27,100,11,84.2,199,United States,"15,772",4.1,28%,56:44:00,15%,Johns Hopkins University,https://www.jhu.edu
+160,16,University of Pennsylvania,91,160,87.7,15,89.7,21,97.6,23,97.7,90,78.8,269,United States,"21,312",6.2,22%,54:46:00,13%,University of Pennsylvania,https://www.upenn.edu
+170,17,Columbia University,90.9,170,88.6,14,89.7,20,97.4,25,75.2,332,86.9,169,United States,"25,914",5.2,35%,,23%,Columbia University,https://www.columbia.edu
+180,18,"University of California, Los Angeles",90.1,180,85.7,19,91.9,18,96.4,34,92.3,143,74.3,342,United States,"42,634",9.6,15%,56:44:00,21%,"University of California, Los Angeles",https://www.ucla.edu
+190,19,National University of Singapore,90,190,78.8,25,94,16,95.4,47,100,19,91.1,117,Singapore,"33,334",20,24%,49:51:00,28%,National University of Singapore nus,https://www.nus.edu.sg
+200,20,Cornell University,89.5,200,85.7,20,88.7,22,97.6,22,69.4,447,86,176,United States,"23,620",10,24%,51:49:00,25%,Cornell University,https://www.cornell.edu
+210,21,University of Toronto,88.6,210,77.5,28,94.1,15,92.8,81,96.1,103,90.7,123,Canada,"79,282",25.8,27%,56:44:00,17%,University of Toronto,https://www.utoronto.ca
+220,22,UCL,88.1,220,78.4,26,86.4,24,98.6,9,75.2,335,97.9,8,United Kingdom,"41,110",11.3,61%,59:41:00,21%,UCL ucl UCL,https://www.ucl.ac.uk
+230,23,University of Michigan-Ann Arbor,87.4,230,84.7,22,87.4,23,95.5,45,80.7,255,69,422,United States,"45,783",8.1,16%,51:49:00,22%,University of Michigan-Ann Arbor,https://www.umich.edu
+240,24,Carnegie Mellon University,86.3,240,75,32,84.6,26,98.9,6,87.3,182,85.5,185,United States,"13,562",11.9,44%,44:56:00,43%,Carnegie Mellon University,https://www.cmu.edu
+250,25,University of Washington,85.3,250,78,27,83.5,29,98.2,11,77.6,294,73.2,363,United States,"49,486",10.1,16%,56:44:00,20%,University of Washington,https://www.washington.edu
+260,26,Duke University,83.9,260,79.3,24,76.1,41,96.2,36,100,6,74.8,332,United States,"15,527",3.9,18%,52:48:00,15%,Duke University,https://www.duke.edu
+270,27,New York University,83.5,270,73.2,36,84,28,94.9,49,75.4,330,80.7,246,United States,"48,461",11.8,42%,58:42:00,21%,New York University,https://www.nyu.edu
+280,28,Northwestern University,83.2,280,72.3,37,78.8,34,97.8,15,99.7,50,75.9,316,United States,"18,894",13.1,18%,52:48:00,18%,Northwestern University,https://www.northwestern.edu
+290,29,The University of Tokyo,83.1,290,93.9,11,94.2,14,67.8,608,100,27,49.7,814,Japan,"26,345",10.3,15%,,35%,The University of Tokyo,https://www.u-tokyo.ac.jp
+300,30,University of Edinburgh,82.5,300,70.7,41,77.5,37,96.9,30,71.1,404,97,22,United Kingdom,"33,940",11.5,46%,61:39:00,24%,University of Edinburgh,https://www.ed.ac.uk
+310,30,Technical University of Munich,82.5,310,69.8,44,85.1,25,90,128,100,26,83.1,209,Germany,"35,506",44.4,39%,37 : 63,36%,Technical University of Munich,https://www.tum.de
+320,32,"Nanyang Technological University, Singapore",82.3,320,66.2,52,80.9,32,94.5,54,99.7,49,93.3,78,Singapore,"25,895",16.7,27%,49:51:00,38%,"Nanyang Technological University, Singapore NTU Nan yang",https://www.ntu.edu.sg
+330,33,École Polytechnique Fédérale de Lausanne,81.4,330,74.5,33,73.2,50,90.3,120,99.8,40,95.8,33,Switzerland,"12,543",13.5,64%,30 : 70,44%,École Polytechnique Fédérale de Lausanne,https://www.epfl.ch
+340,34,"University of California, San Diego",81,340,66,53,78.4,35,97.6,19,100,1,74.3,343,United States,"40,596",12,19%,45:55:00,21%,"University of California, San Diego",https://www.ucsd.edu
+350,35,University of Hong Kong,80.3,350,65.6,55,72.3,52,96.4,35,95.2,116,96.8,23,Hong Kong,"18,103",18.3,43%,55:45:00,36%,University of Hong Kong,https://www.hku.hk
+360,36,Georgia Institute of Technology,80,360,63.4,63,78.9,33,94.1,57,94.6,123,84.8,191,United States,"32,079",28,29%,34 : 66,43%,Georgia Institute of Technology,https://www.gatech.edu
+370,37,University of Melbourne,79.2,370,64.8,57,76.4,40,90.1,126,98.3,84,92.7,90,Australia,"51,307",25.1,47%,58:42:00,18%,University of Melbourne UniMelb Australia,https://www.unimelb.edu.au
+380,38,King’s College London,79,380,59.8,74,75.1,47,97.7,17,74.2,347,97.5,13,United Kingdom,"32,835",13.9,53%,63:37:00,12%,King’s College London,https://www.kcl.ac.uk
+390,38,LMU Munich,79,390,65.3,56,76.8,38,92.2,89,100,15,76.9,299,Germany,"34,622",33.5,18%,62:38:00,21%,LMU Munich Ludwig-Maximilians-Universität München,https://www.lmu.de
+400,40,Paris Sciences et Lettres – PSL Research University Paris,78.5,400,75.7,31,72.8,51,83.2,253,99.7,51,81.6,232,France,"16,120",15,22%,51:49:00,30%,Paris Sciences et Lettres – PSL Research University Paris,https://www.psl.eu
+410,41,University of British Columbia,78,410,62.5,66,76.6,39,90.5,118,76.7,304,95,49,Canada,"58,987",19.4,34%,55:45:00,21%,University of British Columbia,https://www.ubc.ca
+420,42,University of Illinois at Urbana-Champaign,77.9,420,69.5,45,81.5,31,85.2,206,85.3,206,64,503,United States,"50,250",19.6,23%,51:49:00,35%,University of Illinois at Urbana-Champaign,https://illinois.edu
+430,43,Shanghai Jiao Tong University,77.7,430,76.6,29,82.5,30,75.4,433,100,24,60.6,573,China,"38,472",12.6,9%,37 : 63,31%,Shanghai Jiao Tong University SJTU,https://www.sjtu.edu.cn
+440,44,Fudan University,77.5,440,76.5,30,75.3,43,83.5,246,96,104,56.1,659,China,"38,101",12.6,9%,52:48:00,24%,Fudan University,https://www.fudan.edu.cn
+450,45,KU Leuven,77,450,60.1,72,74.9,48,91.9,95,100,13,79.6,260,Belgium,"49,435",37.3,19%,52:48:00,23%,KU Leuven,https://www.kuleuven.be
+460,46,London School of Economics and Political Science,76.8,460,59.5,77,73.5,49,95.4,46,55.9,716,94.1,63,United Kingdom,"11,945",12.6,72%,56:44:00,15%,London School of Economics and Political Science,https://www.lse.ac.uk
+470,47,Universität Heidelberg,76.7,470,67.7,49,64.3,69,94.6,51,99.3,66,76.4,305,Germany,"19,315",13.3,20%,55:45:00,20%,Universität Heidelberg,https://www.uni-heidelberg.de
+480,48,Delft University of Technology,76.3,480,66.7,51,78.2,36,76.5,405,100,5,92.8,86,Netherlands,"21,262",15.9,30%,31 : 69,50%,Delft University of Technology,https://www.tudelft.nl
+490,49,McGill University,76,490,62.3,68,72.3,53,88.8,141,76.1,315,92.5,93,Canada,"30,821",11.9,29%,61:39:00,22%,McGill University,https://www.mcgill.ca
+500,50,Karolinska Institute,75.9,500,58.9,82,67.9,56,95.3,48,96,106,85.7,182,Sweden,"8,085",9.9,27%,70:30:00,4%,Karolinska Institute,https://www.ki.se
+510,51,University of Manchester,75.6,510,61.4,69,67.1,60,93.1,74,73.1,367,95.6,37,United Kingdom,"40,725",15.6,45%,56:44:00,26%,University of Manchester,https://www.manchester.ac.uk
+520,52,University of Texas at Austin,75.5,520,66,54,75.7,42,91,109,81.4,247,47.3,883,United States,"48,558",16.4,8%,55:45:00,36%,University of Texas at Austin,https://www.utexas.edu
+530,53,Chinese University of Hong Kong,75.4,530,59.1,80,61.5,80,97.6,21,95.9,107,93.6,69,Hong Kong,"18,290",18.8,25%,,25%,Chinese University of Hong Kong CUHK,https://www.cuhk.edu.hk
+540,54,Monash University,75.2,540,55.3,96,67.8,58,94.7,50,99.7,48,91.1,116,Australia,"58,460",43.1,38%,56:44:00,21%,Monash University,https://www.monash.edu
+550,55,Kyoto University,75,550,85.4,21,84.3,27,60,781,100,14,45.7,942,Japan,"21,817",9,11%,25 : 75,32%,Kyoto University,https://www.kyoto-u.ac.jp
+560,55,Zhejiang University,75,560,70.2,42,75.3,45,78.7,350,99,69,65.5,476,China,"48,169",12,16%,,32%,Zhejiang University ZJU Zhejiang University China research,https://www.zju.edu.cn
+570,57,University of Science and Technology of China,74.8,570,74.3,34,66.3,62,88.2,152,95.6,112,45.4,953,China,"20,252",8.1,5%,,43%,University of Science and Technology of China USTC China University of Science and Technology,https://www.ustc.edu.cn
+580,58,Université Paris-Saclay,74.4,580,70.9,40,66.1,63,82.4,277,92.4,140,78.6,277,France,"31,662",13,24%,50:50:00,35%,Université Paris-Saclay,https://www.universite-paris-saclay.fr
+590,59,"University of California, Davis",74.1,590,63.7,61,67.8,57,87.2,170,91.5,147,78.7,272,United States,"37,926",13.3,18%,60:40:00,22%,"University of California, Davis",https://www.ucdavis.edu
+600,60,The University of Sydney,73.8,600,52.6,115,68.9,54,92,93,97.7,91,90.2,127,Australia,"57,414",23.1,51%,58:42:00,18%,The University of Sydney UniSyd,https://www.sydney.edu.au
+610,61,University of Amsterdam,73.6,610,55,99,63.1,74,96.7,33,77.6,292,93.2,80,Netherlands,"28,649",13.2,36%,60:40:00,16%,University of Amsterdam uva,https://www.uva.nl
+620,62,Seoul National University,73.4,620,74.2,35,75.3,44,74.6,452,100,23,43.7,1000,South Korea,"28,620",16.1,13%,,26%,Seoul National University,https://www.snu.ac.kr
+630,63,University of Wisconsin-Madison,73.3,630,68.5,46,67.5,59,85.5,200,79.8,267,62.8,527,United States,"41,209",9.9,13%,,24%,University of Wisconsin-Madison,https://www.wisc.edu
+640,64,Brown University,73,640,69.8,43,59.6,87,89.7,130,69.3,449,72.1,375,United States,"9,781",10.3,19%,,17%,Brown University,https://www.brown.edu
+650,64,The Hong Kong University of Science and Technology,73,650,54,105,62.1,76,92.9,77,100,10,95.5,40,Hong Kong,"9,794",19.9,30%,,44%,The Hong Kong University of Science and Technology hkust,https://www.hkust.edu.hk
+660,64,Wageningen University & Research,73,660,56.4,90,59.8,85,93.8,63,98.8,74,92.4,96,Netherlands,"15,899",18.1,28%,54:46:00,28%,Wageningen University & Research,https://www.wur.nl
+670,67,Australian National University,72.6,670,55.9,91,68,55,86.6,180,82,238,94.8,51,Australia,"17,293",15.1,48%,52:48:00,29%,Australian National University anu,https://www.anu.edu.au
+680,68,Washington University in St Louis,72.3,680,60.8,71,57.2,101,97.5,24,77.8,291,72.7,368,United States,"13,825",7.3,22%,52:48:00,12%,Washington University in St Louis,https://www.wustl.edu
+690,69,"University of California, Santa Barbara",72.1,690,47.4,167,64.7,68,96.9,29,99.4,64,84,201,United States,"25,540",27.5,18%,54:46:00,39%,"University of California, Santa Barbara",https://www.uq.edu.au
+700,70,The University of Queensland,72,700,52.9,113,64.3,70,89.1,136,99.8,43,94,64,Australia,"42,847",39.1,42%,55:45:00,21%,The University of Queensland UQ UOQ,https://www.institutpolytechnique.fr
+710,71,Institut Polytechnique de Paris,71.3,710,71,39,61.6,79,70.8,543,98.8,71,97.1,21,France,"6,073",6.8,42%,25 : 75,47%,Institut Polytechnique de Paris,https://www.unc.edu
+720,72,University of North Carolina at Chapel Hill,71.2,720,63.4,64,60.3,83,93.9,60,75.8,321,50.9,777,United States,"30,782",7.7,8%,60:40:00,12%,University of North Carolina at Chapel Hill,https://www.nju.edu.cn
+730,73,Nanjing University,70.9,730,64,59,61.7,78,85.3,203,96.8,97,61.8,545,China,"36,711",16.7,8%,54:46:00,41%,Nanjing University,https://www.usc.edu
+740,74,University of Southern California,70.8,740,59.2,79,58.8,90,92.5,85,74.4,345,74.3,346,United States,"44,083",14.2,24%,49:51:00,20%,University of Southern California,https://www.sorbonne-universite.fr
+750,75,Sorbonne University,70.5,750,64.7,58,60.8,81,83.7,242,69.5,444,78.8,270,France,"41,527",14.5,22%,60:40:00,32%,Sorbonne University,https://www.yonsei.ac.kr
+760,76,Yonsei University (Seoul campus),70.4,760,68.1,47,64.3,71,79.3,339,99.9,39,51.8,749,South Korea,"18,961",13.9,17%,49:51:00,21%,Yonsei University (Seoul campus) Yonsei Yon Sei,https://www.leidenuniv.nl
+770,77,Leiden University,70.2,770,46,189,62.7,75,93,75,98.1,87,87.8,154,Netherlands,"35,072",19.3,21%,60:40:00,24%,Leiden University,https://www.bu.edu
+780,78,Boston University,70.1,780,59.6,76,54.1,115,94.3,56,76.4,311,74.1,348,United States,"26,677",10.8,29%,58:42:00,16%,Boston University,https://www.rug.nl
+790,79,University of Groningen,70,790,47.5,165,57.2,100,94.5,52,99.9,30,93.4,75,Netherlands,"31,942",28.8,29%,53:47:00,17%,University of Groningen,https://www.uzh.ch
+800,80,University of Zurich,69.9,800,54.8,103,53.4,121,91.8,96,93.7,131,92.4,97,Switzerland,"25,608",14.7,24%,58:42:00,19%,University of Zurich,https://www.bristol.ac.uk
+810,81,University of Bristol,69.8,810,48.7,148,56.5,105,97.3,26,72.3,378,92.5,91,United Kingdom,"27,335",14.8,31%,55:45:00,27%,University of Bristol,https://www.cityu.edu.hk
+820,82,City University of Hong Kong,69.3,820,52.2,116,52.4,124,91.1,105,100,4,98.7,2,Hong Kong,"9,076",13.2,67%,54:46:00,39%,City University of Hong Kong CityU HK,https://www.kaist.ac.kr
+830,83,Korea Advanced Institute of Science and Technology (KAIST),69.2,830,67.1,50,65.8,64,77.4,383,100,12,41.6,1066,South Korea,"10,130",10.7,8%,0.929861111,40%,Korea Advanced Institute of Science and Technology (KAIST),https://www.unsw.edu.au
+840,84,UNSW Sydney,68.9,840,47.2,173,57.4,98,91.1,107,98.6,80,94.5,59,Australia,"47,044",36.6,40%,47:53:00,26%,UNSW Sydney unsw australia unsw,https://www.umn.edu
+850,85,University of Minnesota,68.7,850,61,70,58.5,92,87.2,171,99.8,42,48.3,859,United States,"59,556",11.8,9%,55:45:00,22%,University of Minnesota,https://www.purdue.edu
+860,86,Purdue University West Lafayette,68.5,860,64,60,65.3,66,71.8,517,84.3,215,76.7,303,United States,"42,633",18.3,17%,44:56:00,37%,Purdue University West Lafayette,https://www.glasgow.ac.uk
+870,87,University of Glasgow,68.2,870,48.1,156,51.8,128,96.8,32,69.7,438,96.1,30,United Kingdom,"32,270",14.4,43%,59:41:00,23%,University of Glasgow,https://www.polyu.edu.hk
+880,87,The Hong Kong Polytechnic University,68.2,880,45.7,192,54.1,117,94.5,53,87.4,181,96.3,29,Hong Kong,"20,034",30.6,30%,51:49:00,38%,The Hong Kong Polytechnic University PolyU Poly U HK PolyU,https://www.hu-berlin.de
+890,87,Humboldt University of Berlin,68.2,890,55.3,95,63.7,72,82.8,263,65.4,540,79,265,Germany,"34,761",54.5,18%,,23%,Humboldt University of Berlin,https://www.rwth-aachen.de
+900,90,RWTH Aachen University,68,900,54.9,101,64.8,67,78.9,347,100,22,71.2,391,Germany,"34,914",43.3,29%,34 : 66,39%,RWTH Aachen University,https://www.uni-bonn.de
+910,91,University of Bonn,67.8,910,51.7,120,57.7,96,89.7,129,82.6,233,73.8,353,Germany,"26,290",44.5,17%,57:43:00,26%,University of Bonn,https://www.uci.edu
+920,92,"University of California, Irvine",67.4,920,47.1,174,53.8,119,93.2,72,96.1,102,80.9,243,United States,"35,675",16.2,26%,53:47:00,25%,"University of California, Irvine",https://www.vanderbilt.edu
+930,92,Vanderbilt University,67.4,930,54.1,104,48.5,153,96,37,96.5,99,62.9,522,United States,"12,971",3.9,17%,55:45:00,16%,Vanderbilt University,https://www.charite.de
+940,94,Charité - Universitätsmedizin Berlin,67.2,940,47.5,164,49.1,149,97.7,16,100,3,75.2,328,Germany,"8,868",17.5,21%,65:35:00,6%,Charité - Universitätsmedizin Berlin,https://www.msu.ru
+950,95,Lomonosov Moscow State University,67,950,87.5,17,75.2,46,33.9,1354,91.1,155,73.8,355,Russian Federation,"32,680",9.6,37%,50:50:00,39%,Lomonosov Moscow State University,https://www.uni-tuebingen.de
+960,95,University of Tübingen,67,960,49.1,142,56.5,106,89,138,99.8,45,72,376,Germany,"21,632",27.1,14%,59:41:00,21%,University of Tübingen,https://www.kth.se
+970,97,KTH Royal Institute of Technology,66.9,970,53.5,107,57.8,95,81,300,97.7,89,82.5,214,Sweden,"13,269",15.9,26%,34 : 66,46%,KTH Royal Institute of Technology,https://www.southampton.ac.uk
+980,97,University of Southampton,66.9,980,48.9,143,50.1,140,92.7,82,73.1,368,96.5,26,United Kingdom,"19,920",13,35%,51:49:00,32%,University of Southampton,https://www.eur.nl
+990,99,Erasmus University Rotterdam,66.7,990,38.5,347,54.1,116,96.9,31,94.7,122,90.6,125,Netherlands,"33,874",36,25%,54:46:00,10%,Erasmus University Rotterdam,https://www.osu.edu
+1000,99,Ohio State University (Main campus),66.7,1000,55.8,92,52.7,123,88.4,147,85,209,67.3,442,United States,"55,538",11.4,11%,51:49:00,22%,Ohio State University (Main campus),https://www.birmingham.ac.uk
+1010,101,University of Birmingham,66.6,1010,46.1,184,49.3,147,95.5,42,72.1,383,95.1,45,United Kingdom,"32,625",15.2,32%,58:42:00,23%,University of Birmingham,https://www.fu-berlin.de
+1020,102,Free University of Berlin,66.5,1020,52.1,117,59.7,86,82.5,272,71.6,394,82.4,215,Germany,"25,427",41.5,20%,63:37:00,23%,Free University of Berlin,https://www.ku.dk
+1030,103,University of Copenhagen,66.3,1030,49.2,139,51.1,134,91.3,102,89.5,171,80.1,256,Denmark,"31,728",4.3,14%,62:38:00,17%,University of Copenhagen,https://www.mcmaster.ca
+1040,103,McMaster University,66.3,1040,43.8,224,51.3,133,93,76,100,17,87.3,163,Canada,"28,254",30.9,22%,56:44:00,16%,McMaster University,https://www.sheffield.ac.uk
+1050,105,University of Sheffield,66.2,1050,48,160,49.5,144,92.3,88,77.5,297,92,101,United Kingdom,"27,860",15.4,40%,53:47:00,28%,University of Sheffield united kingdom UK Sheffield,https://www.emory.edu
+1060,106,Emory University,66.1,1060,53.1,109,45.7,183,95.5,43,81.6,241,69.3,415,United States,"13,127",4,19%,61:39:00,8%,Emory University,https://www.lu.se
+1070,106,Lund University,66.1,1070,46.7,177,56.6,104,86.6,181,99.8,41,79.8,259,Sweden,"30,349",12,18%,56:44:00,23%,Lund University,https://www.warwick.ac.uk
+1080,106,University of Warwick,66.1,1080,48.1,158,52.1,126,89,139,70.5,418,96.4,28,United Kingdom,"24,905",14.4,44%,50:50:00,30%,University of Warwick,https://www.au.dk
+1090,109,Aarhus University,65.9,1090,44.9,205,59,89,86.3,186,98.7,75,76.3,307,Denmark,"26,996",13.5,9%,56:44:00,25%,Aarhus University,https://www.ualberta.ca
+1100,109,University of Alberta,65.9,1100,50.1,132,55.5,109,80.9,301,99.9,29,90.7,122,Canada,"33,730",22.8,27%,,27%,University of Alberta,https://www.adelaide.edu.au
+1110,111,University of Adelaide,65.8,1110,42.4,253,50.6,138,92.8,78,95,119,92.9,84,Australia,"23,792",36.4,31%,49:51:00,25%,University of Adelaide Adelaide University,https://www.uni-goettingen.de
+1120,111,University of Göttingen,65.8,1120,50,134,54.8,112,90.1,125,70.8,411,70.7,397,Germany,"23,349",27.4,14%,53:47:00,27%,University of Göttingen,https://www.umontreal.ca
+1130,111,Université de Montréal,65.8,1130,51.2,124,54.1,118,81.7,289,96.6,98,87.7,155,Canada,"39,935",20.5,22%,,15%,Université de Montréal Université de Montréal Universite de Montreal,https://www.umd.edu
+1140,114,"University of Maryland, College Park",65.7,1140,49.4,138,58.1,93,92.8,79,70.2,429,48.6,848,United States,"33,988",17,9%,49:51:00,39%,"University of Maryland, College Park",https://www.ugent.be
+1150,115,Ghent University,65.6,1150,47.2,172,59.3,88,85.3,201,99.7,46,65.7,468,Belgium,"41,487",37.6,12%,57:43:00,29%,Ghent University,https://www.unibe.ch
+1160,116,University of Bern,65.4,1160,45.1,202,47,167,93.3,69,99.2,67,87,167,Switzerland,"12,399",18.2,16%,59:41:00,20%,University of Bern,https://www.msu.edu
+1170,116,Michigan State University,65.4,1170,54.8,102,52.3,125,86.2,189,70,432,71.4,388,United States,"44,514",16.1,11%,52:48:00,25%,Michigan State University,https://www.tamu.edu
+1180,118,Texas A&M University,65.3,1180,55.2,98,62.1,77,77.3,389,76.4,313,64.1,502,United States,"64,427",20.5,6%,47:53:00,35%,Texas A&M University,https://www.rice.edu
+1190,119,Rice University,65.2,1190,56.4,89,45.6,184,86.5,183,73.9,351,85.8,180,United States,"7,318",9.8,26%,42:58:00,41%,Rice University,https://www.univie.ac.at
+1200,119,University of Vienna,65.2,1200,48.7,149,60.3,84,77.4,386,75.9,320,94.9,50,Austria,"31,318",37.4,31%,66:34:00,33%,University of Vienna,https://www.helsinki.fi
+1210,121,University of Helsinki,65.1,1210,48.1,157,57.6,97,90.6,114,69.2,451,56.7,648,Finland,"22,887",15.9,5%,67:33:00,20%,University of Helsinki,https://www.psu.edu
+1220,122,Penn State (Main campus),65,1220,53.1,111,58.7,91,83.7,241,70.4,421,58.4,617,United States,"45,875",14.2,15%,48:52:00,32%,Penn State (Main campus),https://www.unibas.ch
+1230,123,University of Basel,64.9,1230,50.8,127,42.9,210,87.7,157,99.4,62,95.4,42,Switzerland,"8,536",10.4,31%,56:44:00,18%,University of Basel,https://www.umass.edu
+1240,123,University of Massachusetts,64.9,1240,54,106,46.9,169,87.3,168,85.6,200,77.3,291,United States,"63,500",13.3,14%,50:50:00,25%,University of Massachusetts,https://www.vu.nl
+1250,125,Vrije Universiteit Amsterdam,64.7,1250,40.4,297,51,137,93.4,68,91.5,151,84.3,198,Netherlands,"31,704",19.2,18%,57:43:00,19%,Vrije Universiteit Amsterdam,https://www.dtu.dk
+1260,126,Technical University of Denmark,64.6,1260,50.7,129,47.4,162,83.2,257,99.7,52,92.2,99,Denmark,"10,410",7.7,28%,32 : 68,40%,Technical University of Denmark,https://www.uio.no
+1270,127,University of Oslo,64.3,1270,45.6,196,50.6,139,92.1,91,72.3,379,75.6,320,Norway,"20,967",12.5,15%,66:34:00,22%,University of Oslo,https://www.uni-freiburg.de
+1280,128,University of Freiburg,64.1,1280,46.7,176,51.3,132,86.2,188,100,9,74.2,347,Germany,"19,417",34.4,17%,53:47:00,22%,University of Freiburg,https://www.leeds.ac.uk
+1290,129,University of Leeds,63.9,1290,46.1,186,49.1,150,87.3,167,68.8,458,94.6,57,United Kingdom,"33,450",14.4,32%,59:41:00,30%,University of Leeds,https://www.nottingham.ac.uk
+1300,130,University of Nottingham,63.8,1300,45.6,195,45.9,180,90.6,115,71.2,402,92.8,87,United Kingdom,"33,520",16,27%,54:46:00,27%,University of Nottingham,https://www.tohoku.ac.jp
+1310,130,Tohoku University,63.8,1310,67.8,48,66.4,61,53.8,926,99.9,37,58.5,614,Japan,"17,409",11.8,12%,28 : 72,32%,Tohoku University,https://www.ufl.edu
+1320,132,University of Florida,63.7,1320,55.5,93,56.7,103,78.3,357,88.9,174,50.9,776,United States,"48,114",16.7,9%,56:44:00,22%,University of Florida,https://www.rochester.edu
+1330,133,University of Rochester,63.6,1330,50.8,128,42.9,211,88.3,150,89,173,81.7,230,United States,"9,855",7.3,34%,50:50:00,24%,University of Rochester,https://www.tcd.ie
+1340,134,Trinity College Dublin,63.2,1340,44,220,48.4,154,87.6,160,76.6,309,91.4,111,Ireland,"18,778",22.2,34%,61:39:00,24%,Trinity College Dublin,https://www.qmul.ac.uk
+1350,135,Queen Mary University of London,63.1,1350,37.6,376,42.6,216,97.9,14,73.9,350,98.1,7,United Kingdom,"22,205",14.6,45%,54:46:00,23%,Queen Mary University of London,https://www.uni-hamburg.de
+1360,136,University of Hamburg,63,1360,44.7,208,53.3,122,84.8,216,98.6,78,65.7,471,Germany,"29,240",58.5,13%,58:42:00,22%,University of Hamburg,https://www.tu-berlin.de
+1370,136,Technical University of Berlin,63,1370,47.8,162,55.6,108,78.1,364,99.9,36,71.3,389,Germany,"20,425",49.6,29%,35 : 65,48%,Technical University of Berlin,https://www.colorado.edu
+1380,138,University of Colorado Boulder,62.9,1380,46.5,181,51.9,127,88.6,145,82.8,231,56.6,651,United States,"35,844",16.5,8%,45:55:00,45%,University of Colorado Boulder,https://www.maastrichtuniversity.nl
+1390,138,Maastricht University,62.9,1390,41.4,270,47.1,166,86.1,190,98.1,88,97.4,18,Netherlands,"21,337",19.6,57%,60:40:00,10%,Maastricht University,https://www.kit.edu
+1400,140,Karlsruhe Institute of Technology,62.8,1400,49.9,137,56.8,102,72.5,499,99.9,32,77.6,287,Germany,"21,448",20.5,25%,29 : 71,50%,Karlsruhe Institute of Technology,https://www.ru.nl
+1410,140,Radboud University Nijmegen,62.8,1410,39.1,334,51,136,91.3,103,81.4,246,77.7,285,Netherlands,"23,004",18.2,12%,57:43:00,15%,Radboud University Nijmegen,https://www.uu.se
+1420,140,Uppsala University,62.8,1420,43.9,222,55,111,81.3,296,97.7,92,74.7,337,Sweden,"24,749",13.3,17%,60:40:00,25%,Uppsala University,https://www.unil.ch
+1430,143,University of Lausanne,62.7,1430,41.7,267,46.3,175,87.3,166,99.5,59,90.4,126,Switzerland,"14,478",10.5,23%,,14%,University of Lausanne,https://www.uwa.edu.au
+1440,143,The University of Western Australia,62.7,1440,37.7,368,48.6,152,88.7,144,97.2,94,93.5,74,Australia,"19,382",22.4,26%,50:50:00,23%,The University of Western Australia,https://www.pitt.edu
+1450,145,University of Pittsburgh-Pittsburgh campus,62.5,1450,49.1,141,46.1,178,92.4,87,76.1,316,50.9,778,United States,"26,305",5.4,10%,56:44:00,14%,University of Pittsburgh-Pittsburgh campus,https://www.skku.edu
+1460,145,Sungkyunkwan University (SKKU),62.5,1460,55.5,94,54.2,114,72.9,486,98.8,73,61.3,555,South Korea,"23,402",19.4,19%,,22%,Sungkyunkwan University (SKKU),https://www.york.ac.uk
+1470,147,University of York,62.4,1470,42.4,256,44.8,191,90.8,112,66.9,507,93.1,83,United Kingdom,"19,505",16.1,31%,56:44:00,28%,University of York,https://www.uts.edu.au
+1480,148,University of Technology Sydney,62.3,1480,36.2,421,43.3,207,95.9,39,78.9,278,94.3,60,Australia,"28,223",37.4,25%,50:50:00,33%,University of Technology Sydney UTS,https://www.postech.ac.kr
+1490,149,Pohang University of Science and Technology (POSTECH),62.2,1490,58.1,85,51.5,130,77.2,392,100,21,40,1118,South Korea,"3,300",10.5,5%,,42%,Pohang University of Science and Technology (POSTECH) postech,https://www.auckland.ac.nz
+1500,150,University of Auckland,62,1500,39.7,316,45.7,182,88.3,148,95.8,109,89.9,130,New Zealand,"35,663",24.4,31%,57:43:00,24%,University of Auckland UOA Auckland University,https://www.scu.edu.cn
+1510,150,Sichuan University,62,1510,59.1,81,57.3,99,69.3,574,93.2,135,46.1,929,China,"49,117",15.9,5%,,28%,Sichuan University,https://www.ub.edu
+1520,152,University of Barcelona,61.9,1520,42.4,254,47.3,163,91.4,100,83.9,218,65.2,482,Spain,"44,365",15.3,11%,64:36:00,17%,University of Barcelona,https://www.ntu.edu.tw
+1530,152,National Taiwan University (NTU),61.9,1530,57.3,88,54.8,113,70.8,545,99.9,33,51.2,768,Taiwan,"24,744",11.1,13%,41:59:00,31%,National Taiwan University (NTU),https://www.arizona.edu
+1540,152,Université Paris Cité,61.9,1540,47.9,161,42.7,214,90.6,116,68.3,472,73.2,362,France,"61,690",16.9,18%,66:34:00,21%,Université Paris Cité france international student life,https://www.unibo.it
+1550,155,University of Arizona,61.8,1550,48.7,147,51.3,131,85.7,193,84,217,47,891,United States,"45,517",19.9,7%,56:44:00,25%,University of Arizona,https://www.lancaster.ac.uk
+1560,155,University of Bologna,61.8,1560,53,112,44.6,193,86.5,182,79.4,272,54.3,687,Italy,"74,105",24.7,11%,57:43:00,27%,University of Bologna,https://www.hust.edu.cn
+1570,155,Lancaster University,61.8,1570,40.2,304,40.7,240,93.9,59,66.6,514,96.8,24,United Kingdom,"15,385",13.9,38%,51:49:00,34%,Lancaster University,https://www.uwaterloo.ca
+1580,158,Huazhong University of Science and Technology,61.7,1580,48.8,145,48.1,156,90,127,96.9,96,32.9,1391,China,"57,663",15.5,4%,,31%,Huazhong University of Science and Technology Hua Zhong University HUST Tech,https://www.uni-koeln.de
+1590,158,University of Waterloo,61.7,1590,42.2,260,49.3,148,83.7,243,78.3,286,89.3,134,Canada,"36,904",24.2,23%,47:53:00,39%,University of Waterloo,https://www.uantwerpen.be
+1600,160,University of Cologne,61.5,1600,42.9,240,47.1,165,85.6,197,98.8,70,73.3,359,Germany,"31,299",28.7,17%,,20%,University of Cologne,https://www.dartmouth.edu
+1610,161,University of Antwerp,61.4,1610,38.2,357,44.4,195,92.5,84,98.4,81,74.7,335,Belgium,"16,168",31.8,17%,56:44:00,24%,University of Antwerp,https://www.tu-dresden.de
+1620,161,Dartmouth College,61.4,1620,57.3,87,40.7,239,84.7,218,68.4,468,60.2,581,United States,"6,226",7.4,16%,49:51:00,20%,Dartmouth College,https://www.case.edu
+1630,161,TU Dresden,61.4,1630,46.6,180,51.1,135,79.3,338,99.7,53,67.9,434,Germany,"29,719",29.4,17%,45:55:00,35%,TU Dresden,https://www.whu.edu.cn
+1640,164,Case Western Reserve University,61.3,1640,51.7,121,40.2,246,88.7,142,71.4,398,65,485,United States,"10,294",8.8,25%,51:49:00,13%,Case Western Reserve University,https://www.virginia.edu
+1650,164,Wuhan University,61.3,1650,50.9,126,45,189,88.5,146,90.6,160,41,1084,China,"56,066",15,5%,,40%,Wuhan University,https://www.uct.ac.za
+1660,166,University of Virginia (Main campus),61.1,1660,51.1,125,40.1,248,88.9,140,79.9,265,60.8,571,United States,"25,953",8.9,11%,54:46:00,22%,University of Virginia (Main campus),https://www.uclouvain.be
+1670,167,University of Cape Town,60.9,1670,38.7,344,47,168,88.3,149,78.2,287,82.9,211,South Africa,"21,961",13.6,13%,54:46:00,18%,University of Cape Town UCT,https://www.tue.nl
+1680,168,Université Catholique de Louvain,60.8,1680,39.5,322,49.4,146,83.1,259,92,145,83.1,207,Belgium,"25,409",37.3,20%,54:46:00,27%,Université Catholique de Louvain,https://www.hit.edu.cn
+1690,168,Eindhoven University of Technology,60.8,1690,47.4,168,51.5,129,71.3,529,100,7,87.3,162,Netherlands,"10,611",21.4,27%,,46%,Eindhoven University of Technology,https://www.liverpool.ac.uk
+1700,168,Harbin Institute of Technology,60.8,1700,58.8,83,55.1,110,70.9,540,91.2,154,33.9,1362,China,"30,933",10.6,6%,,44%,Harbin Institute of Technology,https://www.newcastle.ac.uk
+1710,168,University of Liverpool,60.8,1710,38.4,350,40.2,247,93.4,67,64.9,550,96.4,27,United Kingdom,"25,955",14.2,32%,54:46:00,24%,University of Liverpool,https://www.sns.it
+1720,168,Newcastle University,60.8,1720,37.2,387,41.1,234,93.8,61,72.1,385,91.3,113,United Kingdom,"25,650",14.8,26%,53:47:00,22%,Newcastle University,https://www.durham.ac.uk
+1730,168,Scuola Normale Superiore di Pisa,60.8,1730,60.1,73,42.6,217,82.9,262,34.9,1095,59.3,598,Italy,614,7.4,11%,29 : 71,43%,Scuola Normale Superiore di Pisa,https://www.osaka-u.ac.jp
+1740,174,Durham University,60.6,1740,43.5,230,44.5,194,83.5,245,65.6,534,95.8,32,United Kingdom,"19,575",14,32%,54:46:00,38%,Durham University united kingdom UK  England,https://www.uni-wuerzburg.de
+1750,175,Osaka University,60.4,1750,62.5,67,65.7,65,50.5,1010,100,20,51,775,Japan,"22,274",10.4,10%,32 : 68,29%,Osaka University Handai OU,https://www.bnu.edu.cn
+1760,175,University of Würzburg,60.4,1760,40.3,301,43.4,206,90.8,111,99.6,58,63.2,515,Germany,"23,637",38.3,12%,59:41:00,26%,University of Würzburg,https://www.exeter.ac.uk
+1770,177,Beijing Normal University,60.2,1770,57.7,86,45.8,181,77.5,381,67.6,488,52.3,730,China,"26,439",14.4,9%,,40%,Beijing Normal University,https://www.uottawa.ca
+1780,177,University of Exeter,60.2,1780,33.5,519,42.5,221,95.7,40,52.2,765,95.5,39,United Kingdom,"27,190",16.6,28%,53:47:00,27%,University of Exeter,https://www.mq.edu.au
+1790,177,University of Ottawa,60.2,1790,39.6,320,46.5,174,84.4,226,80.2,261,86.9,170,Canada,"38,366",27.2,26%,59:41:00,19%,University of Ottawa,https://www.uniroma1.it
+1800,180,Macquarie University,60.1,1800,36.7,405,44.2,198,87.4,165,90.9,159,88.6,143,Australia,"30,371",51.7,22%,,26%,Macquarie University,
+1810,181,Sapienza University of Rome,60,1810,53.5,108,48.1,157,77.9,372,85.4,202,46.5,919,Italy,"60,522",22.2,9%,61:39:00,26%,Sapienza University of Rome,
+1820,182,Arizona State University (Tempe),59.9,1820,40.9,280,46.2,177,87.5,161,71.5,395,71.7,379,United States,"48,870",19.7,14%,46:54:00,33%,Arizona State University (Tempe),
+1830,183,University of Geneva,59.8,1830,41.8,265,38,287,86.7,179,80.7,254,97.1,20,Switzerland,"18,865",8.4,40%,62:38:00,26%,University of Geneva,
+1840,184,University of Twente,59.7,1840,43.4,235,46,179,75.1,439,99.6,55,93.3,79,Netherlands,"9,964",13.9,38%,37 : 63,39%,University of Twente,
+1850,185,Stockholm University,59.6,1850,32.1,588,49.6,143,91,108,59.2,660,81.2,237,Sweden,"29,774",20.3,13%,,31%,Stockholm University,
+1860,185,Tongji University,59.6,1860,50,136,53.6,120,69.5,570,85.4,204,67.7,438,China,"31,632",11.3,15%,41:59:00,41%,Tongji University,
+1870,187,Georgetown University,59.5,1870,52.6,114,37,304,85.1,209,92.2,144,53.2,706,United States,"17,508",10.1,18%,55:45:00,14%,Georgetown University,
+1880,187,University of Mannheim,59.5,1880,36.5,413,45.4,186,90.2,124,93.6,132,63.7,508,Germany,"7,475",57.1,14%,52:48:00,23%,University of Mannheim,
+1890,189,Chalmers University of Technology,59.4,1890,42.7,246,46.6,172,79.4,333,97.1,95,74.1,349,Sweden,"10,103",15.4,17%,32 : 68,45%,Chalmers University of Technology,
+1900,190,Cardiff University,59.3,1900,35.5,444,39.6,252,91.9,94,70.4,419,92.5,92,United Kingdom,"28,815",15,27%,58:42:00,24%,Cardiff University,
+1910,191,Tokyo Institute of Technology,59.2,1910,59.5,78,63.3,73,49.4,1033,100,28,60.1,582,Japan,"9,928",9.6,17%,0.725,45%,Tokyo Institute of Technology,
+1920,191,Tufts University,59.2,1920,51.5,122,35,350,87.5,164,71.7,392,62.8,526,United States,"11,611",10.5,16%,57:43:00,17%,Tufts University,
+1930,193,University of Erlangen-Nuremberg,59,1930,42.6,249,48.1,155,79.7,327,100,8,61,563,Germany,"29,467",41.9,13%,51:49:00,32%,University of Erlangen-Nuremberg,
+1940,193,University of Macau,59,1940,38.4,351,38.1,285,90.3,121,61.9,615,93.7,68,Macao,"10,908",18.6,41%,54:46:00,25%,University of Macau,
+1950,193,University of Münster,59,1950,43.8,225,47.3,164,83.7,240,81.5,244,53.5,703,Germany,"27,529",25.1,5%,,28%,University of Münster,
+1960,193,University of St Andrews,59,1960,46,191,42.6,218,77.7,378,63.6,575,95.8,34,United Kingdom,"10,325",12.4,46%,58:42:00,32%,University of St Andrews,
+1970,193,Ulm University,59,1970,40.6,292,41.2,233,87.9,156,99.6,56,63,519,Germany,"10,301",26.4,13%,51:49:00,24%,Ulm University,
+1980,198,Indiana University,58.9,1980,47.3,170,38.4,273,84.9,212,85.8,198,64.7,492,United States,"66,389",12.3,12%,54:46:00,24%,Indiana University,
+1990,199,University of Notre Dame,58.7,1990,51.9,118,42.6,215,76.1,415,72.9,372,69.9,410,United States,"12,576",10.9,12%,47:53:00,36%,University of Notre Dame,
+2000,199,Queensland University of Technology,58.7,2000,33.9,499,42.1,225,89.5,133,85.9,195,82.2,221,Australia,"35,164",37.9,14%,54:46:00,28%,Queensland University of Technology qut,
+2010,199,Ulsan National Institute of Science and Technology (UNIST),58.7,2010,47.7,163,40.8,238,85,210,94.6,124,46.5,920,South Korea,"3,799",11.8,9%,28 : 72,42%,Ulsan National Institute of Science and Technology (UNIST),
