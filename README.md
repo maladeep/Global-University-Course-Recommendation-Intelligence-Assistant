@@ -120,4 +120,10 @@ Run Streamlit app as:
 
 ### License
 This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-   
+
+
+# App shot
+
+<img src="image/findyouruniversity.png" alt="App home" width="650"/>
+<img src="image/course recommendation.png" alt="App home" width="650"/>
+<img src="image/abroadstudy.png" alt="App home" width="650"/>
