@@ -4,7 +4,7 @@ Explore tools designed to enhance your educational journey with GUCI (Global Uni
 ## Overview
 
 
-<img src="image/apphome" alt="Growing Trend: Nepali Youth Seeking Opportunities Abroad" width="650"/>
+<img src="image/apphome.png" alt="App home" width="650"/>
 
 
 GUCI Assistant offers a suite of features to help you make informed decisions about studying abroad and finding suitable courses and universities. With personalized recommendations and insights, the GUCI Assistant is your go-to tool for navigating academic and career opportunities.
@@ -66,7 +66,7 @@ Additional processes included scaling, target leakage prevention, hyperparameter
 
 Logistic Regression with SMOTE was found to be the best model, achieving a cross-validation accuracy of 89% with optimal parameters: `(C = 1)` and solver = `newton-cg`.
 
-## ℹ️ How We Achieved This
+## ℹ️ Recommendation Workflow
 
 The dataset from **[THE World University Rankings 2024](https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking)** (`n=201`, `m=23`) was utilized, along with data from two previous research projects:
 - **[Aditya Sureshkumar's University Recommendation System](https://github.com/aditya-sureshkumar/University-Recommendation-System)**
