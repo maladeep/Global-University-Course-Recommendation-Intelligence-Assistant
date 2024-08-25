@@ -8,7 +8,11 @@ Explore tools designed to enhance your educational journey with GUCI (Global Uni
 
 
 > For a better experience, please use light mode.
-> 
+
+## Use GUCi Assistant 
+
+[Try GUCi Assistant App ](https://globaluniversityrecommendation.streamlit.app)
+
 GUCI Assistant offers a suite of features to help you make informed decisions about studying abroad and finding suitable courses and universities. With personalized recommendations and insights, the GUCI Assistant is your go-to tool for navigating academic and career opportunities.
 
 ## Features
