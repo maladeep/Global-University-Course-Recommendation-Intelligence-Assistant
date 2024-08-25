@@ -1,8 +1,8 @@
+streamlit
 pandas
 numpy
+seaborn
 matplotlib
 scikit-learn
 fuzzywuzzy
-streamlit
 Pillow
-Python
