@@ -582,17 +582,15 @@ elif page == "Find Your University":
     with st.expander("ℹ️ Score Interpretation"):
         st.write("""
         <div class="expander-content">
+        
     **Content Similarity Score**: Reflects how closely the course attributes match your profile (0-100). Higher values indicate better alignment.
     
     **Weighted Score**: Combines factors like teaching quality, research output, and international outlook (0-100). Higher values suggest better overall performance.
     
     **Hybrid Score**: Combines Content Similarity and Weighted Score to rank recommendations. Higher values indicate the best overall options.
     
-    **Overall Score**: Represents the university's overall performance across ranking metrics (0-100).
+    **Overall Score**: Represents the university's overall performance across ranking metrics (0-100). Higher values suggest better overall performance.
     
-    **Student-Staff Ratio**: Number of students per staff member. Lower values suggest more personalized attention.
-    
-    **Female-Male Ratio**: Gender distribution among students. Provides insight into campus diversity.
     </div>
         """,unsafe_allow_html=True)
 
