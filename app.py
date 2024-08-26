@@ -7,7 +7,6 @@ import streamlit as st
 import pickle
 import time
 from datetime import datetime
-
 from PIL import Image
 
 
