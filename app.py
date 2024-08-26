@@ -481,7 +481,7 @@ elif page == "Find Your University":
 
 
     if st.button("Show Recommended Universities"):
-        with st.spinner("Fetching uni recommendations..."):
+        with st.spinner("Fetching top 5 recommendations..."):
             time.sleep(3)  # Simulate a delay for demonstration
         user_input = {
             'GRE AWA': gre_awa,
@@ -574,6 +574,26 @@ elif page == "Find Your University":
         - **Weighted Score:** Reflects the university’s quality based on teaching, research, and other factors. 100 is best.
         - **Hybrid Score:** Combines content similarity and university quality for the best overall recommendation. 100 is best. 
         </div>
+        """,unsafe_allow_html=True)
+
+
+
+# Expandable information section
+    with st.expander("ℹ️ Score Interpretation"):
+        st.write("""
+        <div class="expander-content">
+    **Content Similarity Score**: Reflects how closely the course attributes match your profile (0-100). Higher values indicate better alignment.
+    
+    **Weighted Score**: Combines factors like teaching quality, research output, and international outlook (0-100). Higher values suggest better overall performance.
+    
+    **Hybrid Score**: Combines Content Similarity and Weighted Score to rank recommendations. Higher values indicate the best overall options.
+    
+    **Overall Score**: Represents the university's overall performance across ranking metrics (0-100).
+    
+    **Student-Staff Ratio**: Number of students per staff member. Lower values suggest more personalized attention.
+    
+    **Female-Male Ratio**: Gender distribution among students. Provides insight into campus diversity.
+    </div>
         """,unsafe_allow_html=True)
 
 
