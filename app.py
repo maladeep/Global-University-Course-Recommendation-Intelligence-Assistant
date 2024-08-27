@@ -285,13 +285,10 @@ if page == "Home":
     A significant number of Nepali individuals are choosing to study or work abroad. This project aims to analyze the factors driving these decisions and develop a data science-based system to support them.
     
     """)
-
-
-        # Justification for Selected Focus
-    st.subheader("Justification for Selected Focus")
-    
     st.write("""
-    Survey results show that 43% of respondents consider selecting the right university or program a key factor in studying abroad, making it the second highest priority. This focus is crucial as it directly impacts students' academic success, career prospects, and overall study abroad experience. By concentrating on this area, our project addresses a vital need, providing tailored support to help students make informed decisions.
+    Survey results show that 43% of respondents consider selecting the right university or program a key factor in studying abroad, making it the second highest priority after finding scholarships or financial aid opportunities. This focus is crucial as it directly impacts students' academic success, career prospects, and overall study abroad experience. By concentrating on this area, our project addresses a vital need, providing tailored support to help students make informed decisions.
+
+    Moreover, selecting a university or program often influences other factors such as scholarships, visa requirements, and, reinforcing its central role in the decision-making process. This holistic impact makes it a strategically important area to address in our research and tool development.
     """)
 
 
