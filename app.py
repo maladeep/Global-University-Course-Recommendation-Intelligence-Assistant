@@ -287,6 +287,14 @@ if page == "Home":
     """)
 
 
+        # Justification for Selected Focus
+    st.subheader("Justification for Selected Focus")
+    
+    st.write("""
+    Survey results show that 43% of respondents consider selecting the right university or program a key factor in studying abroad, making it the second highest priority. This focus is crucial as it directly impacts students' academic success, career prospects, and overall study abroad experience. By concentrating on this area, our project addresses a vital need, providing tailored support to help students make informed decisions.
+    """)
+
+
       # Add a line between columns
     st.markdown("---")
 
