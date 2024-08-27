@@ -290,7 +290,7 @@ if page == "Home":
 In response to this significant demand, we developed a university recommendation system integrated with predictive features. This system not only assists students in selecting suitable university programs, course work, country but also predicts the likelihood of studying abroad based on individual socio-demographic data.
 
     """)
-    with st.expander("🤖 Survey Workflow", expanded=True):
+    with st.expander("💬 Survey Workflow", expanded=True):
         st.subheader("Survey Workflow")
         st.image("image/survey flow.png", caption="Survey Workflow")
 
