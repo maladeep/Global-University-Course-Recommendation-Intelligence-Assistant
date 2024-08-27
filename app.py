@@ -291,6 +291,29 @@ In response to this significant demand, we developed a university recommendation
 
     """)
 
+
+    
+        # Custom CSS to style the expander
+    st.markdown(
+        """
+        <style>
+        .expander-header {
+            background-color: #f0f0f0;
+            color: #333;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .expander-content {
+            background-color: #f9f9f9;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+    
+
      # Expandable information section
     with st.expander("ℹ️ How Survey is Done"):
         st.image("image/survey flow.png", caption="Growing Trend: Nepali Youth Seeking Opportunities Abroad")
