@@ -282,7 +282,7 @@ if page == "Home":
 
     st.write("""
 
-    A significant number of Nepali individuals are choosing to study or work abroad. This project aims to analyze the factors driving these decisions and develop a data science-based system to support them.
+    A significant number of Nepali individuals are choosing to study or work abroad.
     
     """)
     st.write("""
