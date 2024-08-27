@@ -373,7 +373,7 @@ In response to this significant demand, we developed a university recommendation
             Additional processes included scaling, target leakage prevention, hyperparameter optimization, and cross-validation (CV) were also performed. 
 
             **Best Model:**
-            Logistic Regression with SMOTE was found to be the best model, achieving a cross-validation accuracy of 89% with optimal parameters: `(C = 1)` and solver = `newton-cg`.
+            Logistic Regression with SMOTE was found to be the best model, achieving a cross-validation accuracy of 83% with optimal parameters: `(C = 1)` and solver = `newton-cg`.
             </div>
             """, unsafe_allow_html=True)
 
@@ -812,7 +812,7 @@ elif page == "Abroad Study Advisor":
         Additional processes included scaling, target leakage prevention, hyperparameter optimization, and cross-validation (CV) were also performed. 
 
         **Best Model:**
-        Logistic Regression with SMOTE was found to be the best model, achieving a cross-validation accuracy of 89% with optimal parameters: `(C = 1)` and solver = `newton-cg`.
+        Logistic Regression with SMOTE was found to be the best model, achieving a cross-validation accuracy of 83% with optimal parameters: `(C = 1)` and solver = `newton-cg`.
         </div>
         """, unsafe_allow_html=True)
 
