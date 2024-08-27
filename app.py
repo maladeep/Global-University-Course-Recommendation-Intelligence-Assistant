@@ -290,34 +290,9 @@ if page == "Home":
 In response to this significant demand, we developed a university recommendation system integrated with predictive features. This system not only assists students in selecting suitable university programs, course work, country but also predicts the likelihood of studying abroad based on individual socio-demographic data.
 
     """)
-
-
-    
-        # Custom CSS to style the expander
-    st.markdown(
-        """
-        <style>
-        .expander-header {
-            background-color: #f0f0f0;
-            color: #333;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        .expander-content {
-            background-color: #f9f9f9;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        </style>
-        """,
-        unsafe_allow_html=True
-    )
-    
-
-     # Expandable information section
-    with st.expander("ℹ️ How Survey is Done"):
-        st.image("image/survey flow.png", caption="Growing Trend: Nepali Youth Seeking Opportunities Abroad")
-        """,unsafe_allow_html=True)
+    with st.expander("🤖 Survey Workflow", expanded=True):
+        st.subheader("Survey Workflow")
+        st.image("image/survey flow.png", caption="Survey Workflow")
 
 
 
@@ -364,10 +339,6 @@ In response to this significant demand, we developed a university recommendation
         """,
         unsafe_allow_html=True
     )
-
-       
-
-
 
     with st.expander("🤖 Machine Learning Workflow", expanded=True):
         st.subheader("Machine Learning Workflow")
