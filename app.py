@@ -287,7 +287,7 @@ if page == "Home":
     """)
     st.write("""
     Our survey revealed that 43% of respondents expressed a need for AI assistance in selecting a specific university program, making it the second highest priority after finding scholarships or financial aid opportunities. 
-In response to this significant demand, we developed a university recommendation system integrated with predictive features. This system not only assists students in selecting suitable university programs, course work, country but also predicts the likelihood of studying abroad based on individual socio-demographic data
+In response to this significant demand, we developed a university recommendation system integrated with predictive features. This system not only assists students in selecting suitable university programs, course work, country but also predicts the likelihood of studying abroad based on individual socio-demographic data.
 
     """)
 
