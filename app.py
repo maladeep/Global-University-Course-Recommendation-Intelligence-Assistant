@@ -291,6 +291,12 @@ In response to this significant demand, we developed a university recommendation
 
     """)
 
+     # Expandable information section
+    with st.expander("ℹ️ How Survey is Done"):
+        st.image("image/survey flow.png", caption="Growing Trend: Nepali Youth Seeking Opportunities Abroad")
+        """,unsafe_allow_html=True)
+
+
 
       # Add a line between columns
     st.markdown("---")
